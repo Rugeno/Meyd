@@ -55,7 +55,7 @@ export const projects = [
     img: "https://images.pexels.com/photos/1462935/pexels-photo-1462935.jpeg?auto=compress&cs=tinysrgb&w=1600",
     pp: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1600",
     cat: "Web and Mobile Design",
-    username: "Anna Bell",
+    username: "Shivan Jung Kunwar",
   },
   {
     id: 2,
@@ -113,10 +113,10 @@ export const gigs = [
     id: 1,
     img: "https://images.pexels.com/photos/985635/pexels-photo-985635.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     pp: "https://images.pexels.com/photos/720598/pexels-photo-720598.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    desc: "I will create ai art character from your images and prompts",
+    desc: "I will create designer dress from your images and prompts",
     price: 59,
     star: 5,
-    username: "Anna Bell",
+    username: "Shivan Jung Kunwar",
   },
   {
     id: 2,
